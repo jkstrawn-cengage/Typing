@@ -6,3 +6,6 @@ Write a larger app using TDD
 - Choose a random word
 - Accept keystrokes and test if they are valid
 - Complete a word if all the keys are typed, and get another one
+- Track number of correct and incorrect keys typed
+- Track number of correct keys in a row
+- Track number of completed words
